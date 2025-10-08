@@ -1,0 +1,15 @@
+body{
+    background-color: gainsboro;
+}
+.txt-hover-dg:hover{
+    color: #055160;
+}
+.bold-txt-hover:hover{
+    font-weight: 500;
+}
+.bg-hover-g:hover{
+    background-color: #8eb7bf;
+}
+.frame-img-hover:hover{
+    border: 3px solid lightblue;
+}
